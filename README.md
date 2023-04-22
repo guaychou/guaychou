@@ -19,6 +19,7 @@
 - [How to monitor your CPU and Memory usage in MacOS with Go Programming Language](https://medium.com/macoclock/how-to-monitor-your-cpu-and-memory-usage-in-macos-with-go-programming-language-2e9537178d78?source=rss-7c3acb276373------2)
 - [How to use iMessage on Android in 2020 For Free](https://kevinchou888.medium.com/how-to-use-imessage-on-android-in-2020-for-free-f891bfc813f3?source=rss-7c3acb276373------2)
 - [How to monitor your ping latency in macOS with Go Programming Language](https://medium.com/macoclock/how-to-monitor-your-ping-latency-in-macos-with-go-programming-language-be8cedfdf2ea?source=rss-7c3acb276373------2)
+- [How To Add Auto Suggestion And Syntax Highlighting MacOS/Linux Terminal](https://medium.com/macoclock/how-to-add-auto-suggestion-and-syntax-highlighting-macos-linux-terminal-2f168bdd790?source=rss-7c3acb276373------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
