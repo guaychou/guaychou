@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Too 'receh' sometimes for peoples lol**
 
-### Blogs posts
+### Latest Medium Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [In House K8s Load Balancer Architecture On-Premises](https://kevinchou888.medium.com/in-house-k8s-load-balancer-architecture-on-premises-55d3b23867b9?source=rss-7c3acb276373------2)
 - [How to monitor your CPU and Memory usage in MacOS with Go Programming Language](https://medium.com/macoclock/how-to-monitor-your-cpu-and-memory-usage-in-macos-with-go-programming-language-2e9537178d78?source=rss-7c3acb276373------2)
